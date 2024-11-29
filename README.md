@@ -42,12 +42,12 @@ Voici des exemples des graphiques générés dans ce projet pour analyser et pr�
 
     Graphique de la Population Mondiale Historique vs Prédite :
     
-    ![Capture d'écran 2024-11-29 223126](https://github.com/user-attachments/assets/230ce580-5bda-489d-adee-9f0225e8dcfd)
+![Capture d'écran 2024-11-29 223126](https://github.com/user-attachments/assets/230ce580-5bda-489d-adee-9f0225e8dcfd)
 
 
     Corrélation entre l'Année et la Population :
 
-    ![Capture d'écran 2024-11-29 223335](https://github.com/user-attachments/assets/6b95d369-90fb-4381-a58a-cbf8e01f1afb)
+![Capture d'écran 2024-11-29 223335](https://github.com/user-attachments/assets/6b95d369-90fb-4381-a58a-cbf8e01f1afb)
 
 
 Ces graphiques aident à visualiser l'évolution de la population à travers le temps, ainsi que les écarts entre les prédictions du modèle et les valeurs réelles.
@@ -85,7 +85,7 @@ Les résultats incluent les prédictions des populations mondiales et par pays p
     Prédictions visuelles :
         Graphiques illustrant les populations prévues et réelles pour les pays sélectionnés.
         
-        ![Capture d'écran 2024-11-29 223928](https://github.com/user-attachments/assets/9cac3ff3-7711-403a-8352-ef432423f325)
+![Capture d'écran 2024-11-29 223928](https://github.com/user-attachments/assets/9cac3ff3-7711-403a-8352-ef432423f325)
 
 
 ## 🤝 Contributions

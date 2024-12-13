@@ -47,7 +47,8 @@ Voici des exemples des graphiques générés dans ce projet pour analyser et pr�
 
     Corrélation entre l'Année et la Population :
 
-![Capture d'écran 2024-11-29 223335](https://github.com/user-attachments/assets/6b95d369-90fb-4381-a58a-cbf8e01f1afb)
+![Capture d'écran 2024-11-29 193520](https://github.com/user-attachments/assets/b3e4787e-8a18-4de0-a06e-311b1793b404)
+
 
 
 Ces graphiques aident à visualiser l'évolution de la population à travers le temps, ainsi que les écarts entre les prédictions du modèle et les valeurs réelles.

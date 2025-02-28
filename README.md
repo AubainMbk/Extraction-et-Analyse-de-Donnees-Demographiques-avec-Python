@@ -1,4 +1,4 @@
-# PopScraper: Extraction et Analyse de Données Démographiques avec Python
+# Extraction et Analyse de Données Démographiques avec Python
 
 ## Description
 

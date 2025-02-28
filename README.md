@@ -1,10 +1,11 @@
-# Extraction et Analyse de Données Démographiques avec Python
+# Extraction et Analyse de Données Démographiques avec Python (PopScraper)
 
 ## Description
 
 PopScraper est un projet Python alliant web scraping et analyse de données pour extraire des informations sur la population mondiale depuis le site Worldometers. Ce projet inclut une analyse approfondie des tendances démographiques, ainsi que la prédiction des populations futures en utilisant des techniques de machine learning.
 
 L'objectif est de scraper les données démographiques en temps réel, de les analyser pour en tirer des insights et de prédire les populations futures pour les années à venir.
+
 Objectifs du Projet
 
     Récupérer des données de population mondiale à partir de Worldometers via le scraping web.
